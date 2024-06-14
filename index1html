@@ -1,0 +1,113 @@
+<section class="book-section">        
+            <h2>The Ultimate Ethical Hacking Bundle</h2>
+            <div class="book-grid">
+
+
+                <!-- Repeat this block for each book -->
+                <div class="book-item">
+                    <img src="assets/booksimg/book1.jpg" alt="Book Title">
+                    <h3>Ethical Hacking Starter Pack</h3>
+                    <p>₹ 199 <span style="color: red;"> 90% Off</span></p>
+                    <p class="description">
+                        Description <br>
+                        -> 10 Hacking books <br>
+                        -> Lifetime Access <br>
+                        -> easy to maintain <br>
+                    </p>
+                    <button class="buy-button">Buy Now</button>
+                </div>
+                <!-- End repeat -->
+
+
+                <!-- Repeat this block for each book -->
+                <div class="book-item">
+                    <br>
+                    <img src="assets/booksimg/book2.png" alt="Book Title"> <br><br><br><br>
+                    <h3>Hacking All-in-One Bundle</h3>
+                    <p>₹ 199 <span style="color:red;"> 90% off</span>
+                    <p>
+                    <p class="description">
+                        Description <br>
+                        -> 10 Hacking books <br>
+                        -> Lifetime Access <br>
+                        -> easy to maintain <br>
+                    </p>
+                    <button class="buy-button">Buy Now</button>
+                </div>
+                <!-- End repeat -->
+
+
+                <!-- Repeat this block for each book -->
+                <div class="book-item">
+                    <br>
+                    <img src="assets/booksimg/3.png" alt="Book Title"> <br><br><br><br>
+                    <h3>Ethical Hacking Mega Bundle</h3>
+                    <p>₹ 299 <span style="color: red;"> 90% Off</span>
+                    <p>
+                    <p class="description">
+                        Description <br>
+                        ->Andoird,IOS,Windows,linux,wifi & network all hacking books include.<br> 
+                        -> 30 Hacking books <br>
+                        -> Lifetime Access <br>
+                        -> easy to maintain <br>
+                    </p>
+                    <button class="buy-button">Buy Now</button>
+                </div>
+                <!-- End repeat -->
+
+
+                <!-- 2 part 2.0 -->
+
+                <!-- Repeat this block for each book -->
+                <div class="book-item">
+                    <img src="assets/booksimg2.0/1.1.png" alt="Book Title"> <br><br>
+                    <h3>Ethical Hacking Starter Pack <span style="color: rgba(255, 0, 0, 0.746);">2.0</span></h3>
+                    <p>₹ 199 <span style="color: red;"> 90% Off</span></p>
+                    <p class="description">
+                        Description <br>
+                        -> 10 Hacking books <br>
+                        -> Lifetime Access <br>
+                        -> easy to maintain <br>
+                    </p>
+                    <button class="buy-button">Buy Now</button>
+                </div>
+                <!-- End repeat -->
+
+
+                <!-- Repeat this block for each book -->
+                <div class="book-item">
+                    <img src="assets/booksimg2.0/1.2.png" alt="Book Title"> <br><br>
+                    <h3>Hacking All-in-One Bundle <span style="color: rgba(255, 0, 0, 0.746);">2.0</span></h3>
+                    <p>₹ 199 <span style="color:red;"> 90% off</span>
+                    <p>
+                    <p class="description">
+                        Description <br>
+                        -> 10 Hacking books <br>
+                        -> Lifetime Access <br>
+                        -> easy to maintain <br>
+                    </p>
+                    <button class="buy-button">Buy Now</button>
+                </div>
+                <!-- End repeat -->
+
+
+                <!-- Repeat this block for each book -->
+                <div class="book-item">
+                    <img src="assets/booksimg2.0/1.3.png" alt="Book Title"> <br><br>
+                    <h3>Ethical Hacking Mega Bundle <span style="color: rgba(255, 0, 0, 0.746);">2.0</span></h3>
+                    <p>₹ 299 <span style="color: red;"> 90% Off</span>
+                    <p>
+                    <p class="description">
+                        Description <br>
+                        ->Andoird,IOS,Windows,linux,wifi & network all hacking books include.<br> 
+                        -> 30 Hacking books <br>
+                        -> Lifetime Access <br>
+                        -> easy to maintain <br>
+                    </p>
+                    <button class="buy-button">Buy Now</button>
+                </div>
+                <!-- End repeat -->
+
+            </div>
+        </section>
+        <br>
